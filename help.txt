@@ -34,3 +34,7 @@ pip list
 
 
 ######
+
+
+Ссылка на провайдеры:
+https://github.com/xtekky/gpt4free/tree/main/g4f/Provider
