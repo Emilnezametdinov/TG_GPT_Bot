@@ -2,6 +2,8 @@
 
 aiogram
 asyncio
+json
+g4f
 
 
 
